@@ -7,7 +7,7 @@
   - Business metrics
 - 📫 How to reach me:
   - Linkedin: www.linkedin.com/in/juan-ignacio-padilla-barrientos-66884b19b
-- ⚡ Fun fact: The product of any four consecutive integers is always divisible by 24.
+- ⚡ Fun fact: The product of any six consecutive integers is always divisible by 720.
 
 <!---
 ignaciopadillab/ignaciopadillab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
